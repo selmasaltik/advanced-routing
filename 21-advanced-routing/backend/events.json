@@ -1,11 +1,25 @@
 {
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
+    "events": [
+        {
+            "title": "Christmas Markets in Munich",
+            "image": "https://www.munich.travel/var/ger_muc/storage/images/_aliases/teaser_medium/5/6/9/6/3796965-1-ger-DE/Panoramablick%2Bauf%2Bden%2BM%C3%BCnchner%2BChristkindlmarkt%2C%2B%C2%A9%2BM%C3%BCnchen%2BTourismus%2C%2BLukas%2BBarth-2.jpg",
+            "date": "2024-11-25",
+            "description": "This traditional market, with roots dating back to the 14th century, is considered the original among Munich's Christmas markets. Against the romantic backdrop of the neo-Gothic town hall on Marienplatz, the village of stalls enchants with its old Bavarian charm and seduces all the senses. This is not only the home of living customs and old crafts but also of what is probably Germany's largest Nativity scene market.\n\nHere you can find everything needed for a real Nativity scene – from the lantern for the stable to the gifts of the Magi. The first independent Nativity market was held in Munich as early as 1757, and this year the Christkindlmarkt at Marienplatz is scheduled to take place from 25 November to 24 December 2024.",
+            "id": "8e57a4af-22e7-4530-9753-ae0439e8a148"
+        },
+        {
+            "title": "Oktoberfest in Munich",
+            "image": "https://www.muenchen.de/sites/default/files/styles/3_2_w1187/public/2022-06/oktoberfest-nacht.jpg",
+            "date": "2024-09-20",
+            "description": "The 190th Oktoberfest will take place at Munich's Theresienwiese from September 20 to October 5, 2025. Here you find the most important information about the world's largest funfair.",
+            "id": "9efeac4e-4067-45e4-96ef-c5badfda7859"
+        },
+        {
+            "id": "e1",
+            "title": "A dummy event",
+            "date": "2023-02-22",
+            "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
+            "description": "Join this amazing event and connect with fellow developers."
+        }
+    ]
 }
