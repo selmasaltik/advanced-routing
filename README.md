@@ -31,3 +31,10 @@ The React app dev server is then also started via "npm start" (though inside the
 You MUST have both servers (backend + frontend) up and running for the projects to work.
 
 The dummy backend API does not use any external database - instead the dummy data is saved to an "events.json" file inside the project folder.
+
+**Upgrading from React Router v5**
+
+React Router v5 is also still used in many projects. In case you want to learn how to update from v5 to v6, the following two (free) videos should be very helpful:
+
+- Upgrading from v5 to v6: https://www.youtube.com/watch?v=zEQiNFAwDGo
+- Upgrading from v6 to v6.4 (introduced key data fetching features): https://www.youtube.com/watch?v=L2kzUg6IzxM
