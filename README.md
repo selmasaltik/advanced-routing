@@ -33,7 +33,7 @@ You MUST have both servers (backend + frontend) up and running for the projects 
 
 The dummy backend API does not use any external database - instead the dummy data is saved to an "events.json" file inside the project folder.
 
-**Upgrading from React Router v5**
+**Upgrading from React Router v5** 
 
 React Router v5 is also still used in many projects. In case you want to learn how to update from v5 to v6, the following two (free) videos should be very helpful:
 
